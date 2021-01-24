@@ -82,6 +82,15 @@ However there are book chapters which address Gazebo.
 
 ## Presentations
 
+### ROSCon 2019
+
+* The New Architecture of Gazebo Wrappers for ROS 2 [slides](https://roscon.ros.org/2019/talks/roscon2019_gazebo_ros2.pdf) [video](https://vimeo.com/378683414)
+* Using ROS and Gazebo to Safely Validate and Verify Autonomous Systems [slides](https://roscon.ros.org/2019/talks/roscon2019_autonomyvv.pdf) [video](https://vimeo.com/378683381)
+* ROS F1/10 Autonomous Racecar Simulator [slides](https://roscon.ros.org/2019/talks/roscon2019_f110th.pdf) [video](https://vimeo.com/378682713)
+* How to Achieve Realistic Visuals in Ignition Gazebo [slides](https://roscon.ros.org/2019/talks/roscon2019_how_to_achieve_realistic_visuals_in_ignition_gazebo.pdf) [video](https://vimeo.com/378682646)
+* pcg_gazebo_pkgs: A Python library for scripting and rapid-prototyping of simulated Gazebo models and worlds [slides](https://roscon.ros.org/2019/talks/roscon2019_pcg_gazebo_pkgs.pdf) [video](https://vimeo.com/378683294)
+
+
 ### ROSCon 2018
 
 * Astrobee: ROS-based Flight Software for a Free-flying Robot in Microgravity [slides](https://roscon.ros.org/2018/presentations/ROSCon2018_astrobee.pdf) [video](https://vimeo.com/292690863)
